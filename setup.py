@@ -1,4 +1,3 @@
-import pandas as pd
-import logging
-import requests
-import bs4
+pip install requests
+pip install lxml
+pip install bs4
